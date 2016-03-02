@@ -1,0 +1,22 @@
+{
+  "name": "gulp",
+  "description": "Basic development environment",
+  "main": "index.js",
+  "authors": [
+    "Tine"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tinesb/new_gulp",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
